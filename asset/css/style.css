@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+/* khôi phục lại mặc định cỡ chứ theo đơn vị rem */
+body{
+    font-size: 1.6rem;
+    font-family: "Sora", sans-serif;
+}
